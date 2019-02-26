@@ -1,0 +1,1 @@
+python grades_server_client.py -r server 
