@@ -1,4 +1,4 @@
-# client-server-database
+# Grade Reader
 The following is a basic client/server script that is written in python 3. Utilizing the following python libraries for the simple project:
 
 - socket
